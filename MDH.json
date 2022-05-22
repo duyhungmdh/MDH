@@ -2,6 +2,14 @@
 	"name": "MDH",
 	"apps": [
 
+		
+{"name": "Minecraft",
+"version": "1.18.0",
+"downloadURL": "https://dwdisc.com/fdl/d4dc0935-6e64-439f-81a9-38133e5f3955/Minecraft-v1-18-102.ipa",
+"iconURL": "https://i.upanh.org/2022/05/20/1953690f8296fd28373a5394b87f3789.png",
+"versionDescription": "Xoá bản gốc trước khi cài"},
+		
+		
 {"name": "Test",
 "version": "8.88.0",
 "downloadURL": "https://www.dropbox.com/s/x1dps91pz6n7wi3/Infuse%20Pro_7.3.5_1646558239.ipa?dl=0",
