@@ -75,6 +75,72 @@
             "localizedDescription": "Công dụng: \nMod: tải video không logo"
         },
         {
+            "name": "uYou",
+            "versionDate": "2022-05-23",
+            "version": "16.42.3",
+            "iconURL": "https://dl.dropboxusercontent.com/s/w1dqmyvwl04dt1p/uyoutube.jpg?dl=0",
+            "downloadURL": "https://dl.dropboxusercontent.com/s/5n34dt1ux644d4w/uYou_16.42.3_1646546938.ipa?dl=0",
+            "size": "112289000",
+            "isNeedlock": 0,
+            "appType": 1,
+            "localizedDescription": "Note: Bản gốc uYou ổn định \nMod: nghe nhạc tắt màn hình"
+        },		
+        {
+            "name": "uYou Plus",
+            "versionDate": "2022-05-23",
+            "version": "16.42.3",
+            "iconURL": "https://dl.dropboxusercontent.com/s/w1dqmyvwl04dt1p/uyoutube.jpg?dl=0",
+            "downloadURL": "https://dl.dropboxusercontent.com/s/35e3sw8ecw8zgi5/uYou_Plus_16.42.3_1646885310.ipa?dl=0",
+            "size": "114336000",
+            "isNeedlock": 0,
+            "appType": 1,
+            "localizedDescription": "Note: Bản gốc uYou Plus ổn định \nMod: nghe nhạc tắt màn hình"
+        },			
+        {
+            "name": "uYou Plus",
+            "versionDate": "2022-05-23",
+            "version": "17.19.3",
+            "iconURL": "https://dl.dropboxusercontent.com/s/w1dqmyvwl04dt1p/uyoutube.jpg?dl=0",
+            "downloadURL": "https://dl.dropboxusercontent.com/s/q69r6aoedhjjuo2/uYou_Plus_17.19.3_1653200728.ipa?dl=0",
+            "size": "123361000",
+            "isNeedlock": 0,
+            "appType": 1,
+            "localizedDescription": "Note: Bản update thường xuyên uYou Plus \nMod: nghe nhạc tắt màn hình"
+        },			
+        {
+            "name": "Instagram Plus",
+            "versionDate": "2022-05-23",
+            "version": "227.0",
+            "iconURL": "https://dl.dropboxusercontent.com/s/6133ltcpgthzmi9/instagram.png?dl=0",
+            "downloadURL": "https://dl.dropboxusercontent.com/s/xc973dfzlz1yrtk/Instagram_Plus_227.0_1648447849.ipa?dl=0",
+            "size": "94100000",
+            "isNeedlock": 0,
+            "appType": 1,
+            "localizedDescription": "Note: Instagram Plus bản gốc tác giả khuyên dùng \nMod: tải hình ảnh"
+        },
+        {
+            "name": "Instagram Plus",
+            "versionDate": "2022-05-23",
+            "version": "235.1",
+            "iconURL": "https://dl.dropboxusercontent.com/s/6133ltcpgthzmi9/instagram.png?dl=0",
+            "downloadURL": "https://dl.dropboxusercontent.com/s/6w2sjdisgaya6pz/Instagram_Plus_235.1_1653048240.ipa?dl=0",
+            "size": "9640000",
+            "isNeedlock": 0,
+            "appType": 1,
+            "localizedDescription": "Note: Instagram Plus bản update thường xuyên \nMod: tải hình ảnh"
+        },
+        {
+            "name": "Instagram Rocket",
+            "versionDate": "2022-05-23",
+            "version": "235.1",
+            "iconURL": "https://dl.dropboxusercontent.com/s/6133ltcpgthzmi9/instagram.png?dl=0",
+            "downloadURL": "https://dl.dropboxusercontent.com/s/rf47m1gkyr60ute/Instagram_Roket__235.1_1653019320.ipa?dl=0",
+            "size": "97700000",
+            "isNeedlock": 0,
+            "appType": 1,
+            "localizedDescription": "Note: Instagram Rocket VIP \nMod: tải hình ảnh"
+        },		
+        {
             "name": "AirBrush++",
             "versionDate": "2022-05-23",
             "version": "4.25.12",
