@@ -140,27 +140,5 @@
             "appType": 1,
             "localizedDescription": "Note: Instagram Rocket VIP \nMod: tải hình ảnh"
         },		
-        {
-            "name": "AirBrush++",
-            "versionDate": "2022-05-23",
-            "version": "4.25.12",
-            "iconURL": "https://dl.dropboxusercontent.com/s/ank7fmu62bhr63l/AirBrush.png?dl=0",
-            "downloadURL": "https://dl.dropboxusercontent.com/s/nlxiufgr24uk867/AirBrush_4.25.12_1652842944.ipa?dl=0",
-            "size": "206977000",
-            "isNeedlock": 0,
-            "appType": 1,
-            "localizedDescription": "Công dụng: Chỉnh sửa ảnh\nMod: VIP"
-        },		
-		{
-            "name": "Wallcraft Pro",
-            "versionDate": "2022-05-23",
-            "version": "2.8.0",
-            "iconURL": "https://dl.dropboxusercontent.com/s/jkgfnd0y2i1k867/Wallcraft_Pro.png?dl=0",
-            "downloadURL": "https://dl.dropboxusercontent.com/s/wgqmh8908jkodfm/Wallcraft_Pro_2.8_1650206541.ipa?dl=0",
-            "size": "15700000",
-            "isNeedlock": 0,
-            "appType": 1,
-            "localizedDescription": "Công dụng: Tải ảnh HD\nMod: VIP"
-        },
     ]
 }
