@@ -1,0 +1,156 @@
+{
+    "name": "MDH",
+    "news": {
+        "title": "MDH",
+        "caption": "Don’t cry because it’s over, smile because it happened",
+        "tintColor": "10b6ff",
+        "isUnlock": 1,
+
+    },
+    "apps": [
+        {
+            "name": "Bazaart",
+            "versionDate": "2022-05-23",
+            "version": "8.35",
+            "iconURL": "https://dl.dropboxusercontent.com/s/dlcjn0uus4wwxac/Bazaart.jpg?dl=0",
+            "downloadURL": "https://dl.dropboxusercontent.com/s/zlm05c4rbhixa8f/Bazaart_8.35_1648108852.ipa?dl=0",
+            "size": "68.9 Mb",
+            "isNeedlock": 0,
+            "appType": 1,
+            "localizedDescription": "Công dụng: Chỉnh sửa ảnh\nMod: VIP Full in-app"
+        },
+        {
+            "name": "InShot",
+            "versionDate": "2022-05-23",
+            "version": "1.59.0",
+            "iconURL": "https://dl.dropboxusercontent.com/s/wblgmvp7drbe53d/inshot.png?dl=0",
+            "downloadURL": "https://dl.dropboxusercontent.com/s/xzfxn1d6j9a0jtn/InShot_1.59.0_1652602456.ipa?dl=0",
+            "size": "121 Mb",
+            "isNeedlock": 0,
+            "appType": 1,
+            "localizedDescription": "Công dụng: Chỉnh sửa ảnh\nMod: VIP Full in-app"
+        },
+        {
+            "name": "Peachy",
+            "versionDate": "2022-05-23",
+            "version": "1.29.0",
+            "iconURL": "https://dl.dropboxusercontent.com/s/37d7p9yxogt92r9/Peachy.png?dl=0",
+            "downloadURL": "https://dl.dropboxusercontent.com/s/nvuim5pf9olxa97/Peachy_1.29.0_1651575390.ipa?dl=0",
+            "size": "102.2 Mb",
+            "isNeedlock": 0,
+            "appType": 1,
+            "localizedDescription": "Công dụng: Chỉnh sửa ảnh\nMod: VIP Full in-app"
+        },
+        {
+            "name": "Douyin",
+            "versionDate": "2022-05-23",
+            "version": "20.7.0",
+            "iconURL": "https://dl.dropboxusercontent.com/s/f9udtece1n566nc/Tiktok.jpg?dl=0",
+            "downloadURL": "https://dl.dropboxusercontent.com/s/nee4v8k3qbv8gqu/Douyin_20.7.0_1652799272.ipa?dl=0",
+            "size": "263 Mb",
+            "isNeedlock": 0,
+            "appType": 1,
+            "localizedDescription": "Công dụng: Tiktok Trung Quốc\nMod: Auto next, tải video không logo\nNguồn: Lê Tí"
+        },		
+        {
+            "name": "TikTok God",
+            "versionDate": "2022-05-23",
+            "version": "23.5.0",
+            "iconURL": "https://dl.dropboxusercontent.com/s/f9udtece1n566nc/Tiktok.jpg?dl=0",
+            "downloadURL": "https://dl.dropboxusercontent.com/s/4dt8gp0gv939108/TikTok_God_23.5.0_1651818461.ipa?dl=0",
+            "size": "114 Mb",
+            "isNeedlock": 0,
+            "appType": 1,
+            "localizedDescription": "Công dụng: \nMod: tải video không logo"
+        },		
+        {
+            "name": "TikTok Hook",
+            "versionDate": "2022-05-23",
+            "version": "21.7.1",
+            "iconURL": "https://dl.dropboxusercontent.com/s/f9udtece1n566nc/Tiktok.jpg?dl=0",
+            "downloadURL": "https://dl.dropboxusercontent.com/s/xpn89vwuuiqipmr/TikTok_Hook_21.7.1_1646547055.ipa?dl=0",
+            "size": "130 Mb",
+            "isNeedlock": 0,
+            "appType": 1,
+            "localizedDescription": "Công dụng: \nMod: tải video không logo"
+        },
+        {
+            "name": "uYou",
+            "versionDate": "2022-05-23",
+            "version": "16.42.3",
+            "iconURL": "https://dl.dropboxusercontent.com/s/ipyp7rb5foh0ova/youtube.jpg?dl=0",
+            "downloadURL": "https://dl.dropboxusercontent.com/s/5n34dt1ux644d4w/uYou_16.42.3_1646546938.ipa?dl=0",
+            "size": "112 Mb",
+            "isNeedlock": 0,
+            "appType": 1,
+            "localizedDescription": "Note: Bản gốc uYou ổn định \nMod: Nghe nhạc tắt màn hình"
+        },		
+        {
+            "name": "uYou Plus",
+            "versionDate": "2022-05-23",
+            "version": "16.42.3",
+            "iconURL": "https://dl.dropboxusercontent.com/s/ipyp7rb5foh0ova/youtube.jpg?dl=0",
+            "downloadURL": "https://dl.dropboxusercontent.com/s/35e3sw8ecw8zgi5/uYou_Plus_16.42.3_1646885310.ipa?dl=0",
+            "size": "114 Mb",
+            "isNeedlock": 0,
+            "appType": 1,
+            "localizedDescription": "Note: Bản gốc uYou Plus ổn định \nMod: nghe nhạc tắt màn hình"
+        },			
+        {
+            "name": "uYou Plus",
+            "versionDate": "2022-05-23",
+            "version": "17.19.3",
+            "iconURL": "https://dl.dropboxusercontent.com/s/ipyp7rb5foh0ova/youtube.jpg?dl=0",
+            "downloadURL": "https://dl.dropboxusercontent.com/s/q69r6aoedhjjuo2/uYou_Plus_17.19.3_1653200728.ipa?dl=0",
+            "size": "123 Mb",
+            "isNeedlock": 0,
+            "appType": 1,
+            "localizedDescription": "Note: Bản update thường xuyên uYou Plus \nMod: nghe nhạc tắt màn hình"
+        },			
+        {
+            "name": "Instagram Plus",
+            "versionDate": "2022-05-23",
+            "version": "227.0",
+            "iconURL": "https://dl.dropboxusercontent.com/s/6133ltcpgthzmi9/instagram.png?dl=0",
+            "downloadURL": "https://dl.dropboxusercontent.com/s/xc973dfzlz1yrtk/Instagram_Plus_227.0_1648447849.ipa?dl=0",
+            "size": "94 Mb",
+            "isNeedlock": 0,
+            "appType": 1,
+            "localizedDescription": "Note: Instagram Plus bản gốc tác giả khuyên dùng \nMod: tải hình ảnh"
+        },
+        {
+            "name": "Instagram Plus",
+            "versionDate": "2022-05-23",
+            "version": "235.1",
+            "iconURL": "https://dl.dropboxusercontent.com/s/6133ltcpgthzmi9/instagram.png?dl=0",
+            "downloadURL": "https://dl.dropboxusercontent.com/s/6w2sjdisgaya6pz/Instagram_Plus_235.1_1653048240.ipa?dl=0",
+            "size": "96 Mb",
+            "isNeedlock": 0,
+            "appType": 1,
+            "localizedDescription": "Note: Instagram Plus bản update thường xuyên \nMod: tải hình ảnh"
+        },
+        {
+            "name": "Instagram Rocket",
+            "versionDate": "2022-05-23",
+            "version": "235.1",
+            "iconURL": "https://dl.dropboxusercontent.com/s/6133ltcpgthzmi9/instagram.png?dl=0",
+            "downloadURL": "https://dl.dropboxusercontent.com/s/rf47m1gkyr60ute/Instagram_Roket__235.1_1653019320.ipa?dl=0",
+            "size": "97.7 Mb",
+            "isNeedlock": 0,
+            "appType": 1,
+            "localizedDescription": "Note: Instagram Rocket VIP \nMod: tải hình ảnh"
+        },	
+        {
+            "name": "Test",
+            "versionDate": "2022-05-23",
+            "version": "xxx",
+            "iconURL": "https://dl.dropboxusercontent.com/s/6133ltcpgthzmi9/instagram.png?dl=0",
+            "downloadURL": "https://quangtrungcollege-my.sharepoint.com/:u:/g/personal/anhkimdonghn_ms365vip_com/EdHkCj5ZlHdAnOFlqZCBhBAB7jlvPlxSDTyk53V0ZlcQcw?download=1	",
+            "size": "xx700000",
+            "isNeedlock": 0,
+            "appType": 1,
+            "localizedDescription": "Note: Test \nMod: xxx"
+        },	
+
+    ]
+}
