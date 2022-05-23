@@ -1,0 +1,67 @@
+{
+    "news": {
+        "title": "MDH",
+        "caption": "Don’t cry because it’s over, smile because it happened",
+        "date": "2022-05-23",
+        "tintColor": "10b6ff",
+        "isUnlock": 1,
+
+    },
+    "apps": [
+        {
+            "name": "AirBrush++",
+            "versionDate": "2022-05-23",
+            "version": "4.25.12",
+            "iconURL": "https://dl.dropboxusercontent.com/s/ank7fmu62bhr63l/AirBrush.png?dl=0",
+            "downloadURL": "https://dl.dropboxusercontent.com/s/nlxiufgr24uk867/AirBrush_4.25.12_1652842944.ipa?dl=0",
+            "size": "206 MB",
+            "isNeedlock": 0,
+            "appType": 1,
+            "localizedDescription": "Chỉnh sửa ảnh mod VIP\nNó là như vậy đấy"
+        },
+        {
+            "name": "Json 源共享列表",
+            "versionDate": "2021-01-06 18:32:35",
+            "version": "v1.0",
+            "iconURL": "https://sign.iostool.pro/json/jsonipa.png",
+            "downloadURL": "https://v.ios-tool.com/",
+            "size": "2.92 MB",
+            "isNeedlock": 0,
+            "appType": 2,
+            "localizedDescription": "本页面是魔力签第三方资源共享列表，您可以通过本页面复制源地址来添加应用。同时您也可以通过本页来分享您的应用。"
+        },
+        {
+            "name": "JSON源应用",
+            "versionDate": "2021-01-06 18:32:35",
+            "version": "v1.0",
+            "iconURL": "https://sign.iostool.pro/json/json.png",
+            "downloadURL": "https://sign.iostool.pro/json/json.ipa",
+            "size": "168.00 KB",
+            "isNeedlock": 0,
+            "appType": 1,
+            "localizedDescription": "搭建魔力签JSON源参数教程说明"
+        },
+        {
+            "name": "TEST-解锁测试",
+            "versionDate": "2021-01-06 18:32:35",
+            "version": "v1.0",
+            "iconURL": "https://sign.iostool.pro/json/test.png",
+            "downloadURL": "https://sign.iostool.pro/json/test.ipa",
+            "size": "72.30 KB",
+            "isNeedlock": "1",
+            "appType": 1,
+            "localizedDescription": "这是一个测试解锁下载，输入123456来解锁应用"
+        },
+        {
+            "name": "教程说明",
+            "versionDate": "2021-01-06 18:32:35",
+            "version": "",
+            "iconURL": "https://sign.iostool.pro/json/safarijson.png",
+            "downloadURL": "https://sign.iostool.pro/json/",
+            "size": "Safari",
+            "isNeedlock": "0",
+            "appType": 2,
+            "localizedDescription": "魔力签JSON在线编辑以及参数说明"
+        }
+    ]
+}
