@@ -42,6 +42,39 @@
             "localizedDescription": "Công dụng: Chỉnh sửa ảnh\nMod: VIP"
         },
         {
+            "name": "Douyin",
+            "versionDate": "2022-05-23",
+            "version": "20.7.0",
+            "iconURL": "https://dl.dropboxusercontent.com/s/2fcowtbe1rwh54m/Tiktok.png?dl=0",
+            "downloadURL": "https://dl.dropboxusercontent.com/s/nee4v8k3qbv8gqu/Douyin_20.7.0_1652799272.ipa?dl=0",
+            "size": "263491000",
+            "isNeedlock": 0,
+            "appType": 1,
+            "localizedDescription": "Công dụng: Tiktok Trung Quốc\nMod: Auto next, tải video không logo"
+        },		
+        {
+            "name": "TikTok God",
+            "versionDate": "2022-05-23",
+            "version": "23.5.0",
+            "iconURL": "https://dl.dropboxusercontent.com/s/2fcowtbe1rwh54m/Tiktok.png?dl=0",
+            "downloadURL": "https://dl.dropboxusercontent.com/s/4dt8gp0gv939108/TikTok_God_23.5.0_1651818461.ipa?dl=0",
+            "size": "114581000",
+            "isNeedlock": 0,
+            "appType": 1,
+            "localizedDescription": "Công dụng: \nMod: tải video không logo"
+        },		
+        {
+            "name": "TikTok Hook",
+            "versionDate": "2022-05-23",
+            "version": "21.7.1",
+            "iconURL": "https://dl.dropboxusercontent.com/s/2fcowtbe1rwh54m/Tiktok.png?dl=0",
+            "downloadURL": "https://dl.dropboxusercontent.com/s/xpn89vwuuiqipmr/TikTok_Hook_21.7.1_1646547055.ipa?dl=0",
+            "size": "130824000",
+            "isNeedlock": 0,
+            "appType": 1,
+            "localizedDescription": "Công dụng: \nMod: tải video không logo"
+        },
+        {
             "name": "AirBrush++",
             "versionDate": "2022-05-23",
             "version": "4.25.12",
@@ -51,7 +84,7 @@
             "isNeedlock": 0,
             "appType": 1,
             "localizedDescription": "Công dụng: Chỉnh sửa ảnh\nMod: VIP"
-        },
+        },		
 		{
             "name": "Wallcraft Pro",
             "versionDate": "2022-05-23",
