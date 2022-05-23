@@ -9,6 +9,39 @@
     },
     "apps": [
         {
+            "name": "Bazaart",
+            "versionDate": "2022-05-23",
+            "version": "8.35",
+            "iconURL": "https://dl.dropboxusercontent.com/s/dlcjn0uus4wwxac/Bazaart.jpg?dl=0",
+            "downloadURL": "https://dl.dropboxusercontent.com/s/zlm05c4rbhixa8f/Bazaart_8.35_1648108852.ipa?dl=0",
+            "size": "68996000",
+            "isNeedlock": 0,
+            "appType": 1,
+            "localizedDescription": "Công dụng: Chỉnh sửa ảnh\nMod: VIP"
+        },
+        {
+            "name": "InShot",
+            "versionDate": "2022-05-23",
+            "version": "1.59.0",
+            "iconURL": "https://dl.dropboxusercontent.com/s/wblgmvp7drbe53d/inshot.png?dl=0",
+            "downloadURL": "https://dl.dropboxusercontent.com/s/xzfxn1d6j9a0jtn/InShot_1.59.0_1652602456.ipa?dl=0",
+            "size": "121003000",
+            "isNeedlock": 0,
+            "appType": 1,
+            "localizedDescription": "Công dụng: Chỉnh sửa ảnh\nMod: VIP"
+        },
+        {
+            "name": "Peachy",
+            "versionDate": "2022-05-23",
+            "version": "1.29.0",
+            "iconURL": "https://dl.dropboxusercontent.com/s/37d7p9yxogt92r9/Peachy.png?dl=0",
+            "downloadURL": "https://dl.dropboxusercontent.com/s/nvuim5pf9olxa97/Peachy_1.29.0_1651575390.ipa?dl=0",
+            "size": "102235000",
+            "isNeedlock": 0,
+            "appType": 1,
+            "localizedDescription": "Công dụng: Chỉnh sửa ảnh\nMod: VIP"
+        },
+        {
             "name": "AirBrush++",
             "versionDate": "2022-05-23",
             "version": "4.25.12",
@@ -28,7 +61,7 @@
             "size": "15700000",
             "isNeedlock": 0,
             "appType": 1,
-            "localizedDescription": "Tải ảnh HD\nMod VIP"
+            "localizedDescription": "Công dụng: Tải ảnh HD\nMod: VIP"
         },
     ]
 }
