@@ -17,7 +17,7 @@
             "size": "68.9 Mb",
             "isNeedlock": 0,
             "appType": 1,
-            "localizedDescription": "Công dụng: Chỉnh sửa ảnh\nMod: VIP Full in-app"
+            "localizedDescription": "Công dụng: Chỉnh sửa ảnh\nMod: VIP"
         },
         {
             "name": "InShot",
@@ -28,7 +28,7 @@
             "size": "121 Mb",
             "isNeedlock": 0,
             "appType": 1,
-            "localizedDescription": "Công dụng: Chỉnh sửa ảnh\nMod: VIP Full in-app"
+            "localizedDescription": "Công dụng: Chỉnh sửa ảnh\nMod: VIP"
         },
         {
             "name": "Peachy",
@@ -39,7 +39,7 @@
             "size": "102.2 Mb",
             "isNeedlock": 0,
             "appType": 1,
-            "localizedDescription": "Công dụng: Chỉnh sửa ảnh\nMod: VIP Full in-app"
+            "localizedDescription": "Công dụng: Chỉnh sửa ảnh\nMod: VIP"
         },
         {
             "name": "Douyin",
@@ -50,7 +50,7 @@
             "size": "263 Mb",
             "isNeedlock": 0,
             "appType": 1,
-            "localizedDescription": "Công dụng: Tiktok Trung Quốc\nMod: Auto next, tải video không logo\nNguồn: Lê Tí"
+            "localizedDescription": "Công dụng: Tiktok Trung Quốc\nMod: Auto next, tải video không logo"
         },		
         {
             "name": "TikTok God",
@@ -140,17 +140,5 @@
             "appType": 1,
             "localizedDescription": "Note: Instagram Rocket VIP \nMod: tải hình ảnh"
         },	
-        {
-            "name": "Test",
-            "versionDate": "2022-05-23",
-            "version": "xxx",
-            "iconURL": "https://dl.dropboxusercontent.com/s/6133ltcpgthzmi9/instagram.png?dl=0",
-            "downloadURL": "https://quangtrungcollege-my.sharepoint.com/:u:/g/personal/anhkimdonghn_ms365vip_com/EdHkCj5ZlHdAnOFlqZCBhBAB7jlvPlxSDTyk53V0ZlcQcw?download=1	",
-            "size": "xx700000",
-            "isNeedlock": 0,
-            "appType": 1,
-            "localizedDescription": "Note: Test \nMod: xxx"
-        },	
-
     ]
 }
