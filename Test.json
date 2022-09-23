@@ -98,7 +98,8 @@
 		"appstore": "com.miniclip.agar.io",
 		"bundleID": "com.miniclip.agar.io",
 		"category": "Hacked Games"
-	}],
+		}
+	],
 	"Emulators": [{
 		"name": "iNDS",
 		"version": "1.10.8",
@@ -107,7 +108,8 @@
 		"category": "Emulators",
 		"description": "",
 		"bundleID": "net.nerd.iNDS"
-	}, {
+	},
+	{
 		"name": "Delta iPac",
 		"version": "1",
 		"icon": "https://raw.githubusercontent.com/rileytestut/Delta/main/Resources/Assets.xcassets/AppIcon.appiconset/icon-180.png",
