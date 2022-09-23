@@ -6,14 +6,13 @@
 	"Tweaked": [{
 		"name": "uYou",
 		"version": "17.36.4",
-		"down": "https://github.com/qnblackcat/uYouPlus/releases/download/v17.36.4-2.1/uYouPlus_17.36.4_2.1.ipa",
+		"down": "https://source.chungchi.ml/ipa/rieng/uYouPlus.ipa",
 		"category": "Tweaked Apps",
-		"description": "True ad-less YouTube...",
+		"description": "MDH",
 		"bundleID": "com.google.ios.youtube",
 		"appstore": "com.google.ios.youtube",
 		"contact": {
-			"web": "https://repo.twickd.com",
-			"twitter": "https://twitter.com/twickdrepo"
+			"web": "https://chungchi.ml/",
 		}
 	}, {
 		"name": "iPogo",
