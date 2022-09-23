@@ -9,14 +9,15 @@
 		"down": "https://source.chungchi.ml/ipa/chung/AdGuardPro.ipa",
 		"category": "Tweaked Apps",
 		"description": "Uploader: MDH\nCông dụng: Chặn quảng cáo\nMod: Pro",
-		}
-	}, {
+	},
+	{
 		"name": "Remini",
 		"version": "2.6.2",
 		"down": "https://source.chungchi.ml/ipa/chung/Remini.ipa",
 		"category": "Tweaked Apps",
 		"description": "Uploader: MDH\nCông dụng: Chỉnh sửa ảnh\nMod: NoAds",
-	}, {
+	},
+	{
 		"name": "SpooferX",
 		"version": "0.247.1",
 		"down": "https://www.spooferx.app/ipa/SpooferPro-0.247.1-0.94.ipa",
@@ -25,40 +26,14 @@
 		"description": "SpooferX for Pokémon GO is an enhanced edition of the Pokémon GO app, adding a joystick and with free teleport ! It also include a lot of others features : IV checking, enhanced throw, auto walking and GPX, fast catch trick, a live feed and even a map with everything around you !",
 		"bundleID": "com.nianticlabs.pokemongo",
 		"appstore": "com.nianticlabs.pokemongo"
-	}, {
-		"name": "Sposify++",
-		"version": "8.6.42",
-		"icon": "https://usescarlet.com/icons/spotify.png",
-		"down": "https://resources.usescarlet.com/repo/IPAs/Spotify.ipa",
-		"category": "Tweaked Apps",
-		"description": "Sposify and Spotilife tweak merged into one app",
-		"bundleID": "com.spotify.client",
-		"appstore": "com.spotify.client",
-		"debs": [
-			"https://usescarlet.com/debs/Spotilife.dylib",
-			"https://usescarlet.com/debs/Sposify.dylib",
-			"https://usescarlet.com/debs/SposifyFix.dylib"
-		],
-		"changelog":"- Updated Spotilife and Sposify to latest version\n- Applied SposifyFix patch"
-	}, {
+	},
+	{
 		"name": "Instagram Rhino",
 		"version": "187.0",
 		"icon": "https://iosninja.io/img/ipas/instagram_rhino.png",
 		"down": "https://resources.usescarlet.com/repo/IPAs/instagramRhino.ipa",
 		"category": "Tweaked Apps",
-		"bundleID": "com.rhino.InstagramApp",
-		"appstore": "com.burbn.instagram"
-	}, {
-		"name": "VideoStar",
-		"version": "8.3.2",
-		"icon": "https://usescarlet.com/icons/videostar.png",
-		"down": "https://resources.usescarlet.com/repo/IPAs/videostar.ipa",
-		"category": "Tweaked Apps",
- "debs": [
-			"https://usescarlet.com/debs/videostar.dylib"
-		],
-		"bundleID": "com.frontierdesign.videostar",
-		"appstore": "com.frontierdesign.videostar"
+	},
 	}],
 	"Jailbreaks": [{
 			"name": "Taurine",
