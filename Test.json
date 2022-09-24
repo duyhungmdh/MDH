@@ -1,130 +1,777 @@
 {
-	"META": {
-		"repoName": "MDH Test",
-		"repoIcon": "https://usescarlet.com/img/icon.png"
-	},
-	"Tweaked": [{
-		"name": "uYou",
-		"version": "17.36.4",
-		"down": "https://source.chungchi.ml/ipa/rieng/uYouPlus.ipa",
-		"category": "Tweaked Apps",
-		"description": "MDH",
-		"contact": {
-			"web": "https://chungchi.ml/",
-	}, {
-		"name": "Sposify++",
-		"version": "8.6.42",
-		"icon": "https://usescarlet.com/icons/spotify.png",
-		"down": "https://resources.usescarlet.com/repo/IPAs/Spotify.ipa",
-		"category": "Tweaked Apps",
-		"description": "Sposify and Spotilife tweak merged into one app",
-		"bundleID": "com.spotify.client",
-		"appstore": "com.spotify.client",
-		"debs": [
-			"https://usescarlet.com/debs/Spotilife.dylib",
-			"https://usescarlet.com/debs/Sposify.dylib",
-			"https://usescarlet.com/debs/SposifyFix.dylib"
-		],
-		"changelog":"- Updated Spotilife and Sposify to latest version\n- Applied SposifyFix patch"
-	}, {
-		"name": "Instagram Rhino",
-		"version": "187.0",
-		"icon": "https://iosninja.io/img/ipas/instagram_rhino.png",
-		"down": "https://resources.usescarlet.com/repo/IPAs/instagramRhino.ipa",
-		"category": "Tweaked Apps",
-		"bundleID": "com.rhino.InstagramApp",
-		"appstore": "com.burbn.instagram"
-	}, {
-		"name": "VideoStar",
-		"version": "8.3.2",
-		"icon": "https://usescarlet.com/icons/videostar.png",
-		"down": "https://resources.usescarlet.com/repo/IPAs/videostar.ipa",
-		"category": "Tweaked Apps",
- "debs": [
-			"https://usescarlet.com/debs/videostar.dylib"
-		],
-		"bundleID": "com.frontierdesign.videostar",
-		"appstore": "com.frontierdesign.videostar"
-	}],
-	"Jailbreaks": [{
-			"name": "Taurine",
-			"version": "1.1.6",
-			"icon": "https://cdn.discordapp.com/attachments/752890955236901055/829728600446074930/Taurine.png",
-			"down": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.6/Taurine-1.1.6.ipa",
-			"dev": "Odyssey-Team",
-			"category": "Jailbreaks",
-			"description": "Time to get amped.",
-			"bundleID": "com.odysseyteam.taurine",
-			"screenshots": [
-				"https://taurine.app/assets/images/iphones.png",
-				"https://taurine.app/assets/images/iphone.png"
-			],
-			"contact": [
-				"https://taurine.app/",
-				"https://twitter.com/OdysseyTeam_"
-			]
-		},
+    "name": "VIP IOS Store",
+    "news": {
+		"title": "VIP IOS Store",
+        "caption": "Don’t cry because it’s over, smile because it happened",
+
+
+    },
+    "Tweaked": [
+	    {
+            "name": "AnkiMobile",
+            "versionDate": "2022-05-24",
+            "version": "2.0.87",
+		    "size": "35000000",
+            "iconURL": "https://source.chungchi.ml/icon/AnkiMobile.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/AnkiMobile.ipa",
+            "localizedDescription": "Uploader: MDH\nCông dụng: Chặn quảng cáo\nMod: Pro"
+        },
+        {
+            "name": "AdGuard Pro",
+            "versionDate": "2022-05-24",
+            "version": "4.4.0",
+			"size": "28000000",
+            "iconURL": "https://source.chungchi.ml/icon/AdGuardPro.png",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/AdGuardPro.ipa",
+            "localizedDescription": "Uploader: MDH\nCông dụng: Chặn quảng cáo\nMod: Pro"
+        },
+        {
+            "name": "Remini",
+            "versionDate": "2022-05-24",
+            "version": "2.6.2",
+			"size": "29000000",
+            "iconURL": "https://source.chungchi.ml/icon/Remini.png",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/Remini.ipa",
+            "localizedDescription": "Uploader: MDH\nCông dụng: Chỉnh sửa ảnh\nMod: NoAds"
+        },
+	"MDH": [
+        {
+            "name": "Bazaart",
+            "versionDate": "2022-05-24",
+            "version": "8.35",
+			"size": "67000000",
+            "iconURL": "https://source.chungchi.ml/icon/Bazaart.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/Bazaart.ipa",
+            "localizedDescription": "Uploader: MDH\nCông dụng: Chỉnh sửa ảnh\nMod: VIP Full in-app"
+        },
+        {
+            "name": "InShot",
+            "versionDate": "2022-05-24",
+            "version": "1.59.4",
+			"size": "121000000",
+            "iconURL": "https://source.chungchi.ml/icon/inshot.png",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/InShot.ipa",
+            "localizedDescription": "Uploader: MDH\nCông dụng: Chỉnh sửa ảnh\nMod: VIP Full in-app"
+        },
 		{
-			"name": "Odyssey",
-			"version": "1.4.2",
-			"icon": "https://theodyssey.dev/assets/images/icon.png",
-			"down": "https://github.com/Odyssey-Team/Odyssey/releases/download/v1.4.2/Odyssey-1.4.2.ipa",
-			"dev": "Odyssey-Team",
-			"category": "Jailbreaks",
-			"bundleID": "org.coolstar.odyssey",
-			"description": "A new jailbreak for a new era.",
-			"screenshots": [
-				"https://theodyssey.dev/assets/images/iphones.png",
-				"https://theodyssey.dev/assets/images/iphone.png"
-			],
-			"contact": [
-				"https://theodyssey.dev/",
-				"https://twitter.com/OdysseyTeam_"
-			]
-		},
+            "name": "Koloro",
+            "versionDate": "2022-05-24",
+            "version": "4.2.5",
+			"size": "121000000",
+            "iconURL": "https://source.chungchi.ml/icon/Koloro.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/Koloro.ipa",
+            "localizedDescription": "Uploader: MDH\nCông dụng: Chỉnh sửa ảnh\nMod: VIP Full in-app"
+        },
+        {
+            "name": "Peachy",
+            "versionDate": "2022-05-24",
+            "version": "1.29.0",
+			"size": "102000000",
+            "iconURL": "https://source.chungchi.ml/icon/Peachy.png",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/Peachy.ipa",
+            "localizedDescription": "Uploader: MDH\nCông dụng: Chỉnh sửa ảnh\nMod: VIP Full in-app"
+        },
+        {
+            "name": "Douyin",
+            "versionDate": "2022-05-24",
+            "version": "21.8.0",
+			"size": "263000000",
+            "iconURL": "https://source.chungchi.ml/icon/Tiktok.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/rieng/Douyin.ipa",
+            "localizedDescription": "Uploader: MDH\nCông dụng: Tiktok Trung Quốc\nMod: Auto next, tải video không logo"
+        },		
+        {
+            "name": "TikTok God",
+            "versionDate": "2022-05-24",
+            "version": "23.5.0",
+			"size": "114000000",
+            "iconURL": "https://source.chungchi.ml/icon/Tiktok.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/TikTokGod.ipa",
+            "localizedDescription": "Uploader: MDH\nCông dụng: \nMod: tải video không logo, Auto next"
+        },		
+        {
+            "name": "TikTok LRD",
+            "versionDate": "2022-05-24",
+            "version": "23.5",
+			"size": "144000000",
+            "iconURL": "https://source.chungchi.ml/icon/Tiktok.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/TikTokLRD.ipa",
+            "localizedDescription": "Uploader: MDH\nCông dụng: \nMod: tải video không logo, auto next"
+        },	
 		{
-			"name": "unc0ver",
-			"version": "8.0.2",
-			"icon": "https://cdn.discordapp.com/attachments/752890955236901055/829731825802018896/unc0ver.png",
-			"down": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
-			"dev": "unc0ver-Team",
-			"category": "Jailbreaks",
-			"bundleID": "science.xnu.undecimus",
-			"banner": "https://resources.usescarlet.com/Banners/unc0verbanner.jpg",
-			"screenshots": [
-				"https://resources.usescarlet.com/Screenshots/unc0verpg1.png",
-				"https://resources.usescarlet.com/Screenshots/unc0verpg2.png",
-				"https://resources.usescarlet.com/Screenshots/unc0verpg3.png"
-			],
-			"contact": [
-				"https://unc0ver.dev/",
-				"https://twitter.com/pwn20wnd"
-			]
-		}
-	],
-	"Hacked Games": [{
-		"name":"Agar.io",
-		"down": "https://resources.usescarlet.com/repo/IPAs/agario.ipa",
-		"version":"2.20.3",
-		"appstore": "com.miniclip.agar.io",
-		"bundleID": "com.miniclip.agar.io",
-		"category": "Hacked Games"
-	}],
-	"Emulators": [{
-		"name": "iNDS",
-		"version": "1.10.8",
-		"icon": "https://iosninja.io/img/ipas/inds.png",
-		"down": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.8/iNDS.ipa",
-		"category": "Emulators",
-		"description": "",
-		"bundleID": "net.nerd.iNDS"
-	}, {
-		"name": "Delta iPac",
-		"version": "1",
-		"icon": "https://raw.githubusercontent.com/rileytestut/Delta/main/Resources/Assets.xcassets/AppIcon.appiconset/icon-180.png",
-		"down": "https://github.com/ianclawson/Delta-iPac-Edition/releases/download/1.0.1/Delta-iPac.ipa",
-		"category": "Emulators",
-		"description": "A Fan-build of Delta, an all-in-one classic video game emulator for non-jailbroken iOS devices",
-		"bundleID": "com.ianclawson.DeltaPacEdition"
-	}]
+            "name": "TikTok Hook",
+            "versionDate": "2022-05-24",
+            "version": "24.4.0",
+			"size": "144000000",
+            "iconURL": "https://source.chungchi.ml/icon/Tiktok.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/TikTokHook.ipa",
+            "localizedDescription": "Uploader: MDH\nCông dụng: \nMod: tải video không logo"
+        },	
+        {
+            "name": "uYou Plus",
+            "versionDate": "2022-05-24",
+            "version": "16.42.3",
+			"size": "114000000",
+            "iconURL": "https://source.chungchi.ml/icon/youtube.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/rieng/uYouPlus.ipa",
+            "localizedDescription": "Uploader: MDH\nNote: Bản gốc uYou Plus ổn định \nMod: Nghe nhạc tắt màn hình, PIP... khuyến khích các bạn muốn ổn định dùng bản này"
+        },		
+        {
+            "name": "uYou Plus",
+            "versionDate": "2022-05-24",
+            "version": "17.30.3",
+			"size": "124000000",
+            "iconURL": "https://source.chungchi.ml/icon/youtube.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/uYouPlusNew.ipa",
+            "localizedDescription": "Uploader: MDH\nNote: Bản update thường xuyên uYou Plus \nMod: Nghe nhạc tắt màn hình, PIP... dành cho các bạn thích trải nghiệm các phiên bản mới nhất"
+        },
+        {
+            "name": "Nhạc Của Tui",
+            "versionDate": "2022-05-24",
+            "version": "6.2.6",
+			"size": "48000000",
+            "iconURL": "https://source.chungchi.ml/icon/nct.png",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/Nhaccuatui.ipa",
+            "localizedDescription": "Uploader: MDHnMod: VIP - InAPP, Sau khi đăng nhập tài khoản tự động kích hoạt VIP"
+        },		
+		{
+            "name": "Chia Sẻ Nhạc",
+            "versionDate": "2022-05-24",
+            "version": "1.5",
+			"size": "22000000",
+            "iconURL": "https://source.chungchi.ml/icon/csn.png",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/csn.ipa",
+            "localizedDescription": "Uploader: MDH\nMod: Ứng dụng miễn phí, full tính năng"
+        },	
+        {
+            "name": "Instagram Plus",
+            "versionDate": "2022-05-24",
+            "version": "227.0",
+			"size": "94000000",
+            "iconURL": "https://source.chungchi.ml/icon/Instagram.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/rieng/InstagramPlus.ipa",
+            "localizedDescription": "Uploader: MDH\nNote: Instagram Plus bản gốc tác giả khuyên dùng \nMod: Tải hình ảnh, bỏ quảng cáo..."
+        },
+        {
+            "name": "Instagram Plus",
+            "versionDate": "2022-05-24",
+            "version": "245.0",
+			"size": "97000000",
+            "iconURL": "https://source.chungchi.ml/icon/Instagram.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/InstagramPlusNew.ipa",
+            "localizedDescription": "Uploader: MDH\nNote: Instagram Plus bản update thường xuyên \nMod: Tải hình ảnh, bỏ quảng cáo..."
+        },
+        {
+            "name": "Instagram Rocket",
+            "versionDate": "2022-05-24",
+            "version": "247",
+			"size": "108000000",
+            "iconURL": "https://source.chungchi.ml/icon/Instagram.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/rieng/InstagramRoket.ipa",
+            "localizedDescription": "Uploader: MDH\nNote: Instagram Rocket VIP\nMod: Tải hình ảnh, bỏ quảng cáo..."
+        },
+        {
+            "name": "AirBrush",
+            "versionDate": "2022-05-24",
+            "version": "4.25.15",
+			"size": "206000000",
+            "iconURL": "https://source.chungchi.ml/icon/AirBrush.png",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/AirBrush.ipa",
+            "localizedDescription": "Uploader: MDH\nNote: Chỉnh sửa ảnh \nMod: Premium – Full in-app"
+        },
+		{
+            "name": "Flappy Bird",
+            "versionDate": "2022-05-24",
+            "version": "1.5",
+			"size": "68000000",
+            "iconURL": "https://source.chungchi.ml/icon/FlappyBird.png",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/FlappyBird.ipa",
+            "localizedDescription": "Uploader: MDH"
+        },	
+        {
+            "name": "Candy Crush Saga",
+            "versionDate": "2022-05-24",
+            "version": "1.212.0",
+			"size": "78000000",
+            "iconURL": "https://source.chungchi.ml/icon/Candy_Crush_Saga.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/CandyCrushSaga.ipa",
+            "localizedDescription": "Uploader: MDH\nMod: Bất tử 5 mạng"
+        },	
+		{
+            "name": "Sonic Dash",
+            "versionDate": "2022-05-24",
+            "version": "1.0.5",
+			"size": "143000000",
+            "iconURL": "https://source.chungchi.ml/icon/SonicDash.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/SonicDash.ipa",
+            "localizedDescription": "Uploader: MDH\nMod: Unlock"
+        },	
+		{
+            "name": "Archero",
+            "versionDate": "2022-05-24",
+            "version": "3.11.3",
+			"size": "243000000",
+            "iconURL": "https://source.chungchi.ml/icon/Archero.jpg",
+            "downloadURL": "https://onedrive.live.com/download?cid=88FA48CD116494AD&resid=88FA48CD116494AD%21123716&authkey=AIYwY8uhlvnIKVM",
+            "localizedDescription": "Uploader: MDH\nHack: One Hit"
+        },			
+        {
+            "name": "Cut The Rope Remastered",
+            "versionDate": "2022-05-24",
+            "version": "1.5.0",
+			"size": "382000000",
+            "iconURL": "https://source.chungchi.ml/icon/CutTheRopeRemastered.png",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/CutTheRopeRemastered.ipa",
+            "localizedDescription": "Mod: Unlock All!"
+        },	
+		{
+            "name": "Dead Cells",
+            "versionDate": "2022-05-24",
+            "version": "14.555.11",
+			"size": "297000000",
+            "iconURL": "https://source.chungchi.ml/icon/DeadCells.jpg",
+            "downloadURL": "https://onedrive.live.com/download?cid=88FA48CD116494AD&resid=88FA48CD116494AD%21123586&authkey=AAUyEdfOdNfMNd4",
+            "localizedDescription": "Uploader: MDH\nMod: Full tiền, Unlock all"
+        },			
+        {
+            "name": "Clash of Clans",
+            "versionDate": "2022-05-24",
+            "version": "14.555.11",
+			"size": "297000000",
+            "iconURL": "https://source.chungchi.ml/icon/Clash_of_Clans.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/ClashofClans.ipa",
+            "localizedDescription": "Uploader: MDH\nMod: Full gem, full vàng, tím... lưu ý cần phải tạo lại nick mới"
+        },	
+		{
+            "name": "LEGO® Star Wars™: Castaways",
+            "versionDate": "2022-05-24",
+            "version": "14.555.11",
+			"size": "1597000000",
+            "iconURL": "https://source.chungchi.ml/icon/LEGOStarWarsCastaways.jpg",
+            "downloadURL": "https://onedrive.live.com/download?cid=88FA48CD116494AD&resid=88FA48CD116494AD%21123709&authkey=AI9NZhELJROlVLo",
+            "localizedDescription": "Uploader: MDH"
+        },			
+		{
+            "name": "Zen Pinball Party",
+            "versionDate": "2022-05-24",
+            "version": "14.555.11",
+			"size": "2797000000",
+            "iconURL": "https://source.chungchi.ml/icon/ZenPinballParty.jpg",
+            "downloadURL": "https://onedrive.live.com/download?cid=88FA48CD116494AD&resid=88FA48CD116494AD%21123712&authkey=ANcmdZbw3kGvogs",
+            "localizedDescription": "Uploader: MDH"
+        },			
+        {
+            "name": "Clarity",
+            "versionDate": "2022-05-24",
+            "version": "7.2.6",
+			"size": "42000000",
+            "iconURL": "https://source.chungchi.ml/icon/Clarity.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/rieng/Clarity.ipa",
+            "localizedDescription": "Uploader: MDH\nNote: Tải ảnh HD \nMod: Premium – Full in-app"
+        },			
+        {
+            "name": "EnhanceFox",
+            "versionDate": "2022-05-24",
+            "version": "5.1.3",
+			"size": "155000000",
+            "iconURL": "https://source.chungchi.ml/icon/EnhanceFox.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/EnhanceFox.ipa",
+            "localizedDescription": "Uploader: MDH\nNote: Chỉnh sửa ảnh \nMod: Premium – Full in-app"
+        },			
+        {
+            "name": "Facebook",
+            "versionDate": "2022-05-24",
+            "version": "364.0",
+			"size": "122000000",
+            "iconURL": "https://source.chungchi.ml/icon/Facebook.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/Facebook.ipa",
+            "localizedDescription": "Uploader: MDH\nNguồn: Jun KyO\nNote: Facebook song song"
+        },
+		{
+            "name": "Facebook1",
+            "versionDate": "2022-05-24",
+            "version": "364.0",
+			"size": "122000000",
+            "iconURL": "https://source.chungchi.ml/icon/Facebook.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/Facebook1.ipa",
+            "localizedDescription": "Uploader: MDH\nNguồn: Jun KyO\nNote: Facebook song song"
+        },
+		{
+            "name": "Facebook2",
+            "versionDate": "2022-05-24",
+            "version": "364.0",
+			"size": "122000000",
+            "iconURL": "https://source.chungchi.ml/icon/Facebook.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/Facebook2.ipa",
+            "localizedDescription": "Uploader: MDH\nNguồn: Jun KyO\nNote: Facebook song song"
+        },
+		{
+            "name": "Facebook3",
+            "versionDate": "2022-05-24",
+            "version": "364.0",
+			"size": "122000000",
+            "iconURL": "https://source.chungchi.ml/icon/Facebook.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/Facebook3.ipa",
+            "localizedDescription": "Uploader: MDH\nNguồn: Jun KyO\nNote: Facebook song song"
+        },
+        {
+            "name": "Messenger",
+            "versionDate": "2022-05-24",
+            "version": "357.0",
+			"size": "38000000",
+            "iconURL": "https://source.chungchi.ml/icon/Messenger.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/Messenger.ipa",
+            "localizedDescription": "Uploader: MDH\nNguồn: Jun KyO \nNote: Messenger song song"
+        },		
+        {
+            "name": "Messenger1",
+            "versionDate": "2022-05-24",
+            "version": "357.0",
+			"size": "38000000",
+            "iconURL": "https://source.chungchi.ml/icon/Messenger.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/Messenger1.ipa",
+            "localizedDescription": "Uploader: MDH\nNguồn: Jun KyO \nNote: Messenger song song"
+        },
+        {
+            "name": "Messenger2",
+            "versionDate": "2022-05-24",
+            "version": "357.0",
+			"size": "38000000",
+            "iconURL": "https://source.chungchi.ml/icon/Messenger.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/Messenger2.ipa",
+            "localizedDescription": "Uploader: MDH\nNguồn: Jun KyO \nNote: Messenger song song"
+        },
+        {
+            "name": "Messenger3",
+            "versionDate": "2022-05-24",
+            "version": "357.0",
+			"size": "38000000",
+            "iconURL": "https://source.chungchi.ml/icon/Messenger.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/Messenger3.ipa",
+            "localizedDescription": "Uploader: MDH\nNguồn: Jun KyO \nNote: Messenger song song"
+        },				
+        {
+            "name": "Focos",
+            "versionDate": "2022-05-24",
+            "version": "2.5.4",
+			"size": "233000000",
+            "iconURL": "https://source.chungchi.ml/icon/Focos.png",
+            "downloadURL": "https://source.chungchi.ml/ipa/rieng/Focos.ipa",
+            "localizedDescription": "Uploader: MDH\nNote: \nMod: Premium – Full in-app"
+        },			
+        {
+            "name": "Infltr",
+            "versionDate": "2022-05-24",
+            "version": "6.8",
+			"size": "182000000",
+            "iconURL": "https://source.chungchi.ml/icon/Infltr.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/Infltr.ipa",
+            "localizedDescription": "Uploader: MDH\nNote: Chỉnh sửa ảnh \nMod: Premium – Full in-app"
+        },	
+		{
+            "name": "Viva Cut",
+            "versionDate": "2022-05-24",
+            "version": "2.13.1",
+			"size": "85000000",
+            "iconURL": "https://source.chungchi.ml/icon/VivaCut.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/VivaCut.ipa",
+            "localizedDescription": "Uploader: MDH\nNote: Chỉnh sửa ảnh \nMod: Premium – Full in-app"
+        },	
+        {
+            "name": "Infuse Pro",
+            "versionDate": "2022-05-24",
+            "version": "7.3.10",
+			"size": "41000000",
+            "iconURL": "https://source.chungchi.ml/icon/Infuse_Pro.png",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/InfusePro.ipa",
+            "localizedDescription": "Uploader: MDH\nMod: Premium"
+        },	
+        {
+            "name": "KineMaster",
+            "versionDate": "2022-05-24",
+            "version": "5.0.6",
+			"size": "77000000",
+            "iconURL": "https://source.chungchi.ml/icon/KineMaster.png",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/KineMaster.ipa",
+            "localizedDescription": "Uploader: MDH\nMod: Premium – Full in-app"
+        },		
+        {
+            "name": "MoMo",
+            "versionDate": "2022-05-24",
+            "version": "3.1.8",
+			"size": "56000000",
+            "iconURL": "https://source.chungchi.ml/icon/MoMo.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/rieng/MoMo++.ipa",
+            "localizedDescription": "Uploader: MDH\nNguồn: Jun KyO \nNote: Momo song song => Khuyến nghị các bạn không nên dùng"
+        },	
+        {
+            "name": "Spotify",
+            "versionDate": "2022-05-24",
+            "version": "8.7.28",
+			"size": "56000000",
+            "iconURL": "https://source.chungchi.ml/icon/Spotify.png",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/Spotify.ipa",
+            "localizedDescription": "Uploader: MDH\nMod: bỏ quảng cáo"
+        },	
+        {
+            "name": "Photo Lab",
+            "versionDate": "2022-05-24",
+            "version": "3.10.93",
+			"size": "29000000",
+            "iconURL": "https://source.chungchi.ml/icon/Photo_Lab.png",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/PhotoLab.ipa",
+            "localizedDescription": "Uploader: MDH\nNote: Chỉnh sửa ảnh \nMod: Premium – Full in-app"
+        },	
+		{
+            "name": "PicsArt",
+            "versionDate": "2022-05-24",
+            "version": "19.8.2",
+			"size": "59000000",
+            "iconURL": "https://source.chungchi.ml/icon/PicsArt.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/PicsArt.ipa",
+            "localizedDescription": "Uploader: MDH\nNote: Chỉnh sửa ảnh \nMod: Premium – Full in-app"
+        },	
+        {
+            "name": "Ulike",
+            "versionDate": "2022-05-24",
+            "version": "2.9.7",
+			"size": "104000000",
+            "iconURL": "https://source.chungchi.ml/icon/Ulike.png",
+            "downloadURL": "https://source.chungchi.ml/ipa/rieng/UlikeVip.ipa",
+            "localizedDescription": "Uploader: MDH\nNote: Chỉnh sửa ảnh \nMod: VIP – Full in-app"
+        },	
+        {
+            "name": "VideoShow",
+            "versionDate": "2022-05-24",
+            "version": "5.9.0",
+			"size": "197000000",
+            "iconURL": "https://source.chungchi.ml/icon/VideoShow.png",
+            "downloadURL": "https://source.chungchi.ml/ipa/rieng/VideoShow.ipa",
+            "localizedDescription": "Uploader: MDH\nNote: Chỉnh sửa ảnh \nMod: Premium – Full in-app"
+        },	
+        {
+            "name": "Wallcraft Pro",
+            "versionDate": "2022-05-24",
+            "version": "2.8",
+			"size": "16000000",
+            "iconURL": "https://source.chungchi.ml/icon/Wallcraft_Pro.png",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/WallcraftPro.ipa",
+            "localizedDescription": "Uploader: MDH\nNote: Chỉnh sửa ảnh \nMod: Premium – Full in-app"
+        },	
+        {
+            "name": "Zalo1",
+            "versionDate": "2022-05-24",
+            "version": "22.05.01",
+			"size": "66000000",
+            "iconURL": "https://source.chungchi.ml/icon/Zalo.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/rieng/Zalo1.ipa",
+            "localizedDescription": "Uploader: MDH\nNguồn: Jun KyO \nNote: Zalo song song"
+        },	
+		{
+            "name": "Zalo2",
+            "versionDate": "2022-05-24",
+            "version": "22.05.01",
+			"size": "66000000",
+            "iconURL": "https://source.chungchi.ml/icon/Zalo.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/rieng/Zalo2.ipa",
+            "localizedDescription": "Uploader: MDH\nNguồn: Jun KyO \nNote: Zalo song song"
+        },	
+		{
+            "name": "Zalo3",
+            "versionDate": "2022-05-24",
+            "version": "22.05.01",
+			"size": "66000000",
+            "iconURL": "https://source.chungchi.ml/icon/Zalo.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/rieng/Zalo3.ipa",
+            "localizedDescription": "Uploader: MDH\nNguồn: Jun KyO \nNote: Zalo song song"
+        },	
+        {
+            "name": "AnkiMobile",
+            "versionDate": "2022-05-24",
+            "version": "2.0.8.0",
+			"size": "13000000",
+            "iconURL": "https://source.chungchi.ml/icon/AnkiMobile.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/AnkiMobile.ipa",
+            "localizedDescription": "AnkiMobile là phần mềm học qua thẻ bài, dùng cho người chuyên nghiệp"
+        },			
+        {
+            "name": "Delta",
+            "versionDate": "2022-05-24",
+            "version": "1.3.1",
+			"size": "19000000",
+            "iconURL": "https://source.chungchi.ml/icon/delta.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/rieng/Delta.ipa",
+            "localizedDescription": "Giả lập chơi game Nes, GBA... trên ios"
+        },		
+		{
+            "name": "PPSSPP",
+            "versionDate": "2022-05-24",
+            "version": "1.12.3",
+			"size": "32000000",
+            "iconURL": "https://source.chungchi.ml/icon/PPSSPP.png",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/PPSSPP.ipa",
+            "localizedDescription": "Phần mềm giả lập chơi games PSP trên IOS"
+        },
+		{
+            "name": "Provenance",
+            "versionDate": "2022-05-24",
+            "version": "2.0.2",
+			"size": "33000000",
+            "iconURL": "https://source.chungchi.ml/icon/Provenance.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/Provenance.ipa",
+            "localizedDescription": "Phần mềm giả lập chơi game Nitendo, Sega, PS... trên IOS"
+        },
+        {
+            "name": "Esign",
+            "versionDate": "2022-05-24",
+            "version": "4.4.7.1",
+			"size": "6800000",
+            "iconURL": "https://source.chungchi.ml/icon/esign.png",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/Esign.ipa",
+            "localizedDescription": "Ứng dụng hỗ trợ cài đặt file ipa trực tiếp trên điện thoại <= khuyến nghị nên dùng"
+        },	
+        {
+            "name": "MagicSign",
+            "versionDate": "2022-05-24",
+            "version": "4.0.0",
+			"size": "5700000",
+            "iconURL": "https://source.chungchi.ml/icon/MagicSign.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/MagicSign.ipa",
+            "localizedDescription": "Phần mềm hỗ trợ cài đặt file ipa trực tiếp trên điện thoại"
+        },	
+        {
+            "name": "GBox",
+            "versionDate": "2022-05-24",
+            "version": "3.6.3",
+			"size": "7900000",
+            "iconURL": "https://source.chungchi.ml/icon/GBox.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/GBox.ipa",
+            "localizedDescription": "Phần mềm hỗ trợ cài đặt file ipa trực tiếp trên điện thoại"
+        },			
+        {
+            "name": "Flightradar24",
+            "versionDate": "2022-05-24",
+            "version": "8.18.3",
+			"size": "60000000",
+            "iconURL": "https://source.chungchi.ml/icon/Flightradar24.png",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/FlightRadar24.ipa",
+            "localizedDescription": "Phần mềm theo dõi các chuyến bay \nMod:Full - In App"
+        },	
+        {
+            "name": "HDO",
+            "versionDate": "2022-05-24",
+            "version": "1.0.5",
+			"size": "8600000",
+            "iconURL": "https://source.chungchi.ml/icon/hdo.png",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/Hdo.ipa",
+            "localizedDescription": "Phần mềm xem phim online miễn phí cự hay"
+        },	
+        {
+            "name": "ISTB",
+            "versionDate": "2022-05-24",
+            "version": "1.22.5",
+			"size": "27000000",
+            "iconURL": "https://source.chungchi.ml/icon/istb.png",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/Istb.ipa",
+            "localizedDescription": "Phần mềm xem IPTV nổi tiếng cho IOS"
+        },	
+		{
+            "name": "nPlayerPlus",
+            "versionDate": "2022-05-24",
+            "version": "3.12.12",
+			"size": "38000000",
+            "iconURL": "https://source.chungchi.ml/icon/nPlayerPlus.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/nPlayerPlus.ipa",
+            "localizedDescription": "Phần mềm xem video chuyên nghiệp cho IOS"
+        },	
+        {
+            "name": "Kodi 19.4",
+            "versionDate": "2022-05-24",
+            "version": "19.4",
+			"size": "126000000",
+            "iconURL": "https://source.chungchi.ml/icon/Kodi.png",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/Kodi.ipa",
+            "localizedDescription": "Thế giới giới trí số 1 hiện nay - xem thêm thông tin trên kênh YouTube của AD nếu muốn biết thêm nhé"
+        },	
+		{
+            "name": "Kodi 20",
+            "versionDate": "2022-05-24",
+            "version": "20.0",
+			"size": "136000000",
+            "iconURL": "https://source.chungchi.ml/icon/Kodi20.png",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/Kodi20.ipa",
+            "localizedDescription": "Thế giới giới trí số 1 hiện nay - xem thêm thông tin trên kênh YouTube của AD nếu muốn biết thêm nhé"
+        },	
+        {
+            "name": "Loklok",
+            "versionDate": "2022-05-24",
+            "version": "1.4.0",
+			"size": "75000000",
+            "iconURL": "https://source.chungchi.ml/icon/Loklok.png",
+            "downloadURL": "https://source.chungchi.ml/ipa/rieng/Loklok.ipa",
+            "localizedDescription": "Phần mềm xem phim online miễn phí đỉnh kout \nMod: Phiên bản không có quảng cáo"
+        },
+        {
+            "name": "unc0ver",
+            "versionDate": "2022-05-24",
+            "version": "8.0.2",
+			"size": "52000000",
+            "iconURL": "https://source.chungchi.ml/icon/unc0ver.png",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/Unc0ver.ipa",
+            "localizedDescription": "Ứng dụng JB trực tiếp trên điện thoại <= Ứng dụng can thiệp sâu vào hệ thống, ảnh hưởng tới bảo mật. Chỉ dành cho người hiểu biết"
+        },  
+		{
+            "name": "MIX",
+            "versionDate": "2022-05-24",
+            "version": "5.2.12",
+			"size": "32000000",
+            "iconURL": "https://source.chungchi.ml/icon/Mix.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/Mix.ipa",
+            "localizedDescription": "Mở khóa tính năng VIP"
+        },  
+		{
+            "name": "Mondly Languages",
+            "versionDate": "2022-05-24",
+            "version": "9.23.0",
+			"size": "78000000",
+            "iconURL": "https://source.chungchi.ml/icon/MondlyLanguages.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/MondlyLanguages.ipa",
+            "localizedDescription": "Full in-app"
+        }, 
+		{
+            "name": "Reface",
+            "versionDate": "2022-05-24",
+            "version": "3.0.1",
+			"size": "58000000",
+            "iconURL": "https://source.chungchi.ml/icon/Reface.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/rieng/Reface.ipa",
+            "localizedDescription": "mod Pro user"
+        }, 
+				{
+            "name": "Procreate",
+            "versionDate": "2022-05-24",
+            "version": "4.0.6",
+			"size": "308000000",
+            "iconURL": "https://source.chungchi.ml/icon/Procreate.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/rieng/Procreate.ipa",
+            "localizedDescription": "Full in-app. Lưu ý chỉ dành cho Ipad"
+        }, 
+		{
+            "name": "FE File Explorer Pro",
+            "versionDate": "2022-05-24",
+            "version": "11.0.4",
+			"size": "30000000",
+            "iconURL": "https://source.chungchi.ml/icon/FEFileExplorerPro.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/FEFileExplorerPro.ipa",
+            "localizedDescription": "Full - Pro"
+        }, 
+		{
+            "name": "Viva Video",
+            "versionDate": "2022-05-24",
+            "version": "9.4.0",
+			"size": "12800000",
+            "iconURL": "https://source.chungchi.ml/icon/Viva.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/Viva.ipa",
+            "localizedDescription": "Full - Pro"
+        }, 
+		{
+            "name": "Vcus",
+            "versionDate": "2022-05-24",
+            "version": "2.1.021",
+			"size": "10800000",
+            "iconURL": "https://source.chungchi.ml/icon/Vcus.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/Vcus.ipa",
+            "localizedDescription": "Full - Pro"
+        }, 
+		{
+            "name": "Phonto",
+            "versionDate": "2022-05-24",
+            "version": "4.9.33",
+			"size": "4000000",
+            "iconURL": "https://source.chungchi.ml/icon/Phonto.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/Phonto.ipa",
+            "localizedDescription": "Full - Pro"
+        }, 
+		{
+            "name": "Polish",
+            "versionDate": "2022-05-24",
+            "version": "1.4.2",
+			"size": "4000000",
+            "iconURL": "https://source.chungchi.ml/icon/Polish.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/Polish.ipa",
+            "localizedDescription": "Full - Pro"
+        }, 
+		{
+            "name": "Teleprompter",
+            "versionDate": "2022-05-24",
+            "version": "3.9.19",
+			"size": "4000000",
+            "iconURL": "https://source.chungchi.ml/icon/Teleprompter.png",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/Teleprompter.ipa",
+            "localizedDescription": "Full - Pro"
+        }, 
+		{
+            "name": "Video - Teleprompter",
+            "versionDate": "2022-05-24",
+            "version": "3.9.11",
+			"size": "4000000",
+            "iconURL": "https://source.chungchi.ml/icon/VideoTeleprompter.png",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/VideoTeleprompter.ipa",
+            "localizedDescription": "Full - Pro"
+        }, 
+		{
+            "name": "Videoleap",
+            "versionDate": "2022-05-24",
+            "version": "1.17.3",
+			"size": "128000000",
+            "iconURL": "https://source.chungchi.ml/icon/Videoleap.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/Videoleap.ipa",
+            "localizedDescription": "Full - Pro"
+        }, 
+		{
+            "name": "Photoleap",
+            "versionDate": "2022-05-24",
+            "version": "2.2.22",
+			"size": "128000000",
+            "iconURL": "https://source.chungchi.ml/icon/Photoleap.png",
+            "downloadURL": "https://source.chungchi.ml/ipa/chung/Photoleap.ipa",
+            "localizedDescription": "Full - Pro"
+        }, 
+		{
+            "name": "Motionleap",
+            "versionDate": "2022-05-24",
+            "version": "1.8.1",
+			"size": "128000000",
+            "iconURL": "https://source.chungchi.ml/icon/Motionleap.png",
+            "downloadURL": "https://source.chungchi.ml/ipa/rieng/Motionleap.ipa",
+            "localizedDescription": "Full - Pro"
+        }, 
+		{
+            "name": "Lightleap",
+            "versionDate": "2022-05-24",
+            "version": "1.9.2",
+			"size": "128000000",
+            "iconURL": "https://source.chungchi.ml/icon/Lightleap.png",
+            "downloadURL": "https://source.chungchi.ml/ipa/rieng/Lightleap.ipa",
+            "localizedDescription": "Full - Pro"
+        }, 
+		{
+            "name": "CamScanner",
+            "versionDate": "2022-05-24",
+            "version": "5.26.0",
+			"size": "158000000",
+            "iconURL": "https://source.chungchi.ml/icon/CamScanner.jpg",
+            "downloadURL": "https://source.chungchi.ml/ipa/rieng/CamScanner.ipa",
+            "localizedDescription": "Full - Pro"
+        }, 
+		{
+            "name": "Updating...",
+            "versionDate": "2022-05-24",
+            "version": "",
+			"size": "1000000",
+            "iconURL": "https://source.chungchi.ml/icon/1.jpg",
+            "downloadURL": "https://source.chungchi.ml/icon/",
+            "localizedDescription": "Note: Updating... \nMod: Updating..."
+        },	
+    ]
 }
